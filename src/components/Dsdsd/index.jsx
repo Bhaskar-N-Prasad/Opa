@@ -121,7 +121,7 @@ const Dsdsd = (props) => {
                 }}
               >
                 <a
-                  href="javascript:"
+                  href="/upload"
                   className="text-base text-center text-white-A700_01"
                 >
                   <Text size="txtMontserratBold16">Sign In</Text>
